@@ -35,36 +35,21 @@ My professional interests include **systems architecture, enterprise solutions, 
 
 ## 🧭 Areas of Focus
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏢 Enterprise Systems</h3>
-      Designing and improving information systems that support business operations, workflows, reporting, and organizational processes.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔄 Digital Transformation</h3>
-      Translating business requirements into practical digital solutions, process improvements, and workflow automation.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 Data & Information Management</h3>
-      Working with structured information, business rules, data integration, reporting, and information-driven processes.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🖥️ IT Infrastructure & Operations</h3>
-      Supporting technology environments, troubleshooting systems, and maintaining reliable IT operations.
-    </td>
-  </tr>
-</table>
+### 🏢 Enterprise Systems
+Designing and improving information systems that support business operations, workflows, reporting, and organizational processes.
+
+### 🔄 Digital Transformation
+Translating business requirements into practical digital solutions, process improvements, and workflow automation.
+
+### 📊 Data & Information Management
+Working with structured information, business rules, data integration, reporting, and information-driven processes.
+
+### 🖥️ IT Infrastructure & Operations
+Supporting technology environments, troubleshooting systems, and maintaining reliable IT operations.
 
 ---
 
 ## 🚀 Selected Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
 
 ### 🥇 Gold Commercialization Management System
 
@@ -74,10 +59,7 @@ A business information system supporting gold purchasing, analysis, settlement, 
 - Automated calculations and business rules.
 - Connected operational data with external information sources.
 
-**Focus:** Enterprise Systems · Data Integration · Business Logic
-
-    </td>
-    <td width="50%" valign="top">
+`Enterprise Systems` `Data Integration` `Business Logic`
 
 ### 🕒 Biometric Attendance & Leave Management System
 
@@ -87,12 +69,7 @@ A system designed and implemented to streamline employee attendance and administ
 - Work schedules and tardiness tracking.
 - Leave requests and attendance exceptions.
 
-**Focus:** Process Automation · Information Systems · Workflow Management
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+`Process Automation` `Information Systems` `Workflow Management`
 
 ### 🏢 AGB — Enterprise Management System
 
@@ -103,10 +80,7 @@ An enterprise system developed to centralize business information and improve ad
 - Bulk letters and executive reports.
 - Automated exchange-rate updates using an official Central Bank of Bolivia source.
 
-**Focus:** Enterprise Applications · Reporting · Automation
-
-    </td>
-    <td width="50%" valign="top">
+`Enterprise Applications` `Reporting` `Automation`
 
 ### 🌐 AGB — Official Website
 
@@ -116,12 +90,7 @@ A website developed to present the organization's services, business lines, and 
 - Organizational and business information.
 - Contact information for national and international audiences.
 
-**Focus:** Web Development · Digital Presence · Business Communication
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+`Web Development` `Digital Presence` `Business Communication`
 
 ### 🏕️ Domos Titicaca — Tourism & Booking Platform
 
@@ -131,10 +100,7 @@ An immersive web platform designed to showcase the Domos Titicaca tourism comple
 - Exploration of available activities and experiences.
 - Reservation module for booking activities and services.
 
-**Focus:** Tourism Technology · Booking Systems · Web Development
-
-    </td>
-    <td width="50%" valign="top">
+`Tourism Technology` `Booking Systems` `Web Development`
 
 ### 📦 CBA — Material Request Platform
 
@@ -144,54 +110,20 @@ A web-based platform that enables students to request materials and coordinate s
 - Coordination of schedules and availability.
 - Streamlined coordination around material requests.
 
-**Focus:** Request Management · Scheduling · Workflow Automation
+`Request Management` `Scheduling` `Workflow Automation`
 
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <sub>Project repositories and additional technical details will be added as they become available on this profile.</sub>
-</div>
+<sub>Project repositories and additional technical details will be added as they become available on this profile.</sub>
 
 ---
 
 ## 🧠 How I Approach Technology
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <h3>🔍</h3>
-      <b>Analyze</b>
-      <br/>
-      <sub>Understand problems and requirements.</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>🧩</h3>
-      <b>Design</b>
-      <br/>
-      <sub>Understand components and their relationships.</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>⚙️</h3>
-      <b>Implement</b>
-      <br/>
-      <sub>Build practical solutions.</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>📈</h3>
-      <b>Improve</b>
-      <br/>
-      <sub>Evaluate results and refine processes.</sub>
-    </td>
-  </tr>
-</table>
+- 🔍 **Analyze:** Understand problems, requirements, and constraints.
+- 🧩 **Design:** Understand system components and their relationships.
+- ⚙️ **Implement:** Turn requirements into practical solutions.
+- 📈 **Improve:** Evaluate results and refine processes.
 
-- 🔍 **Analytical thinking:** Breaking down complex problems and evaluating possible solutions.
-- 🧩 **Systems thinking:** Understanding how components, processes, and data interact.
-- ⚙️ **Practical execution:** Turning requirements into useful solutions.
-- 🔄 **Adaptability:** Learning quickly and responding to changing priorities.
-- 📚 **Continuous learning:** Expanding technical knowledge and business understanding.
+I value analytical thinking, systems thinking, adaptability, ownership, and continuous learning.
 
 ---
 
